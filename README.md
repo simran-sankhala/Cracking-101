@@ -310,7 +310,7 @@ u
 | \'N           | Truncate the word at length N                             |
 ```
 
-## Crack a Steg images Password Protected
+## Crack a Steg image Password Protected
 ```
 $ stegseek image.jpg
 ```
